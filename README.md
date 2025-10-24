@@ -1,4 +1,4 @@
-
+https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif
 # 🎃 NIRMAAN - Code the Future, Shape the Web
 
 [![pages-build-deployment](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AryanVBW/NIRMAAN/actions/workflows/pages/pages-build-deployment) ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet)
@@ -233,7 +233,7 @@ const eventDate = import.meta.env.VITE_EVENT_DATE ?? 'TBD';
 ```
 
 ---
-
+https://media.giphy.com/media/l2Sq2N2CPOE6bZQIo/giphy.gif
 ## 📁 Project Structure
 
 ```
@@ -267,6 +267,7 @@ NIRMAAN/
 
 ---
 
+https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif
 ## 🎯 Usage Guide
 
 ### **Customizing Event Details**
@@ -502,6 +503,7 @@ If you have any questions or need help:
 <div align="center">
 
 **Made with ❤️ by the NIRMAAN Team**
+![Thank you](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ⭐ **Star this repo if you found it helpful!** ⭐
 
